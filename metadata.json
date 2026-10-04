@@ -1,0 +1,6 @@
+{
+  "name": "ماهواره‌یار",
+  "description": "دستیار تخصصی و جامع نصابان ماهواره و تعمیرکاران رسیور (جهت‌یابی دیش، بانک فرکانس، عیب‌یابی و مدیریت مشتریان)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
